@@ -1,0 +1,5 @@
+package rick
+
+fun main (){
+
+}
